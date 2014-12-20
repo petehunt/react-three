@@ -17,8 +17,8 @@
     "url": "https://github.com/Izzimach/react-three"
   },
   "license": "Apache-2.0",
-  "main": "build/react-three.js",
-  "dependencies": {
+  "main": "src/ReactTHREE.js",
+  "peerDependencies": {
     "react": "0.11.1"
   },
   "devDependencies": {
